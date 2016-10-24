@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab_6</string>
+    <string-array name="colours">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+
+</resources>
